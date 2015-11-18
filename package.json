@@ -1,6 +1,6 @@
 {
   "name": "ship-it-to-heroku",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Ship your static website to Heroku in less than a minute.",
   "main": "index.js",
   "scripts": {
@@ -11,13 +11,13 @@
     "url": "git+https://github.com/brh55/ship-it-to-heroku.git"
   },
   "keywords": [
-    "HTML5",
+    "HTML",
     "Heroku",
     "Automation",
     "Static Website"
   ],
   "author": "Branodn Him",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/brh55/ship-it-to-heroku/issues"
   },
