@@ -2,7 +2,8 @@
 [![Dependency Status](https://david-dm.org/brh55/ship-it-to-heroku.svg)](https://david-dm.org/brh55/ship-it-to-heroku)
 ![Bloody Fast](https://img.shields.io/badge/bloody-fast-EC5355.svg)
 
-Deploy your static website to Heroku in less than a minute. It's that simple. Great for demoing or show casing your work.
+Deploy your static website to Heroku in less than a minute. It's that simple.
+What an awesome way to demo a live site or showcasing some work!
 
 ## Requirements
 
@@ -30,7 +31,7 @@ Deploy your static website to Heroku in less than a minute. It's that simple. Gr
 4. Copy over your static website to the `www` directory, you must have an `index.html` file!
 5. Stage your new files and commit your changes!
 
-    `git add --all && git commit -m "Add my own static website"
+    `git add --all && git commit -m "Add my own static website"`
 
 6. Push your changes to your repo!
 
