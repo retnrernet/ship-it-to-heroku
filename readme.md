@@ -1,5 +1,5 @@
 # Ship It to Heroku
-[![devDendencies Status](https://david-dm.org/brh55/ship-it-to-heroku/dev-status.svg)](https://david-dm.org/brh55/ship-it-to-heroku#info=dependencies)
+[![Dependency Status](https://david-dm.org/brh55/ship-it-to-heroku.svg)](https://david-dm.org/brh55/ship-it-to-heroku)
 ![Bloody Fast](https://img.shields.io/badge/bloody-fast-EC5355.svg)
 
 Deploy your static website to Heroku in less than a minute. It's that simple. Great for demoing or show casing your work.
@@ -36,7 +36,9 @@ Deploy your static website to Heroku in less than a minute. It's that simple. Gr
 
     `git push origin master`
 
-7. Go to your forked repo github page, and click the deploy button below!
+7. Go to your forked repo github page, and click the deploy button below! ![Llama Power](http://orig05.deviantart.net/fee3/f/2010/094/f/d/llama_walk_by_taquito143.gif)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-![Llama Power](http://orig05.deviantart.net/fee3/f/2010/094/f/d/llama_walk_by_taquito143.gif)
+    [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+## Check out this repo on Heroku!
+https://ship-it-to-heroku.herokuapp.com/
