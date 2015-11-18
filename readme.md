@@ -10,10 +10,17 @@ Deploy your static website to Heroku in less than a minute. It's that simple. Gr
   * [Heroku](https://www.heroku.com)
 
 ## How to Use
-1. `npm install`
-2. Clean out all the files in www: `gulp clean`
-3. Copy over your static website to the `www` directory, you must have an `index.html` file!
-3. Click the button below, and deploy!
+1. Fork this repository
+2. Clone you forked repo
+    `git clone https://yourforkedrepo.git`
+3. Navigate to fork clone
+    `cd to/you/fork-repo`
+4. Install dependencies
+    `npm install`
+3. Clean out all example files in www
+    `gulp clean`
+4. Copy over your static website to the `www` directory, you must have an `index.html` file!
+5. Click the button below, and deploy!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 ![Llama Power](http://orig05.deviantart.net/fee3/f/2010/094/f/d/llama_walk_by_taquito143.gif)
