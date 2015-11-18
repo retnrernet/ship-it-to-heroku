@@ -20,7 +20,11 @@ Deploy your static website to Heroku in less than a minute. It's that simple. Gr
 3. Clean out all example files in www
     `gulp clean`
 4. Copy over your static website to the `www` directory, you must have an `index.html` file!
-5. Click the button below, and deploy!
+5. Stage your new files and commit your changes!
+    `git add --all && git commit -m "Add my own static website"
+6. Push your changes to your repo!
+    `git push origin master`
+7. Go to your forked repo github page, and click the deploy button below!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 ![Llama Power](http://orig05.deviantart.net/fee3/f/2010/094/f/d/llama_walk_by_taquito143.gif)
