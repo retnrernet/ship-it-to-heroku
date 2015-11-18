@@ -1,0 +1,33 @@
+{
+  "name": "ship-it-to-heroku",
+  "version": "0.0.1",
+  "description": "Ship your static website to Heroku in less than a minute.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brh55/ship-it-to-heroku.git"
+  },
+  "keywords": [
+    "HTML5",
+    "Heroku",
+    "Automation",
+    "Static Website"
+  ],
+  "author": "Branodn Him",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brh55/ship-it-to-heroku/issues"
+  },
+  "homepage": "https://github.com/brh55/ship-it-to-heroku#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "finalhandler": "^0.4.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-shell": "^0.5.1",
+    "http": "0.0.0",
+    "serve-static": "^1.10.0"
+  }
+}

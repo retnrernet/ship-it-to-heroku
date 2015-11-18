@@ -1,0 +1,13 @@
+{
+  "name": "ship-it-to-heroku",
+  "description": "Ship your static website to Heroku in less than a minute.",
+  "keywords": [
+    "productivity",
+    "heroku",
+    "static",
+    "demos",
+    "quick",
+    "website"
+  ],
+  "repository": "https://github.com/brh55/ship-it-to-heroku"
+}
